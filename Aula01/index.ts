@@ -17,6 +17,8 @@ const spaceship = {
     inMission: false
 }
 
+/* pull teste hehehe*/
+
 const pilot = "Han Solo";
 
 spaceship.name = "millenium falcon";
